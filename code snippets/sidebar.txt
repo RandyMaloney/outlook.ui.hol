@@ -1,0 +1,59 @@
+private MouseButtonEventHandler mbEventHandler = null;
+private DependencyPropertyChangedEventHandler visibilityEventHandler = null;
+
+private void myNavigationPaneButton_Click(object sender, RoutedEventArgs e)
+{
+	if (mbEventHandler == null) 
+	{
+		mbEventHandler = 
+				new MouseButtonEventHandler(LayoutRoot_PreviewMouseLeftButtonUp);
+	}
+	if (visibilityEventHandler == null) 
+	{
+		visibilityEventHandler = new 
+DependencyPropertyChangedEventHandler(myNavigationPaneControl_IsVisibleChanged);
+	}
+	if (myNavigationPaneControl.Visibility == Visibility.Hidden)
+	{
+		myNavigationPaneButton.SetValue(Button.BackgroundProperty, 
+							(Brush)MyApp.Current.Resources["MyOrangeSolidBrush"]);
+		myNavigationPaneControl.Visibility = Visibility.Visible;
+		LayoutRoot.PreviewMouseLeftButtonUp += mbEventHandler;
+		myNavigationPaneControl.IsVisibleChanged += visibilityEventHandler;
+	}
+	else
+	{
+		hideNavigationPane();
+	}
+}
+
+private void myNavigationPaneControl_IsVisibleChanged(object sender, 
+								DependencyPropertyChangedEventArgs e)
+{
+	if (myNavigationPaneControl.Visibility == Visibility.Hidden)
+	{
+		hideNavigationPane();
+	}
+}
+
+private void LayoutRoot_PreviewMouseLeftButtonUp(object sender, 
+							System.Windows.Input.MouseButtonEventArgs e)
+{
+	if (e.OriginalSource != myNavigationPaneButton 
+			&& e.Source != myNavigationPaneControl)
+	{
+		if (myNavigationPaneControl.Visibility == Visibility.Visible)
+		{
+			hideNavigationPane();
+		}
+	}
+}
+
+private void hideNavigationPane()
+{
+	myNavigationPaneButton.SetValue(Button.BackgroundProperty, 
+					(Brush)MyApp.Current.Resources["MyBrightBlueSolidBrush2"]);
+	myNavigationPaneControl.Visibility = Visibility.Hidden;
+	LayoutRoot.PreviewMouseLeftButtonUp -= mbEventHandler;
+	myNavigationPaneControl.IsVisibleChanged -= visibilityEventHandler;
+}

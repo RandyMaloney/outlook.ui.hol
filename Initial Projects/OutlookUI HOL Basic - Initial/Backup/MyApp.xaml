@@ -1,0 +1,17 @@
+﻿<Application
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="OutlookUI_HOL.MyApp"
+    StartupUri="Window1.xaml"
+    >
+  <Application.Resources>
+
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Simple Styles.xaml"/>
+		    <ResourceDictionary Source="MyStyles.xaml" />
+      </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+
+  </Application.Resources>
+</Application>

@@ -1,0 +1,5 @@
+<Style.Triggers>
+	<DataTrigger Binding="{Binding XPath=Read}" Value="false">
+		<Setter Property="TextBlock.FontWeight" Value="Bold"/>
+	</DataTrigger>
+</Style.Triggers>

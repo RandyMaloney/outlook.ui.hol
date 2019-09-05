@@ -1,0 +1,143 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)'==''">Debug</Configuration>
+    <DefaultClrNameSpace>OutlookUI_HOL</DefaultClrNameSpace>
+    <AssemblyName>OutlookUI_HOL</AssemblyName>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <ApplicationVersion>1.0.0.*</ApplicationVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <AlwaysCompileMarkupFilesInSeparateDomain>false</AlwaysCompileMarkupFilesInSeparateDomain>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OutlookUI_HOL</RootNamespace>
+    <ApplicationIcon>Outlook 2007.ico</ApplicationIcon>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ProjectGuid>{EBD4602D-679F-45CF-8541-3F1A5BF783E0}</ProjectGuid>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildBinPath)\Microsoft.WinFX.targets" />
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <ApplicationDefinition Include="MyApp.xaml" />
+    <Compile Include="MyApp.xaml.cs">
+      <DependentUpon>MyApp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="MyFoldersExpandersControl.xaml.cs">
+      <DependentUpon>MyFoldersExpandersControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MyInboxExpanderControl.xaml.cs">
+      <DependentUpon>MyInboxExpanderControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MyMailHeaderGridControl.xaml.cs">
+      <DependentUpon>MyMailHeaderGridControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MyNavigationPaneControl.xaml.cs">
+      <DependentUpon>MyNavigationPaneControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MySidebarControl.xaml.cs">
+      <DependentUpon>MySidebarControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MyStatusBarControl.xaml.cs">
+      <DependentUpon>MyStatusBarControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MyToolBarTrayControl.xaml.cs">
+      <DependentUpon>MyToolBarTrayControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MyFoldersExpandersControl.xaml" />
+    <Page Include="MyInboxExpanderControl.xaml" />
+    <Page Include="MyMailHeaderGridControl.xaml" />
+    <Page Include="MyNavigationPaneControl.xaml" />
+    <Page Include="MySidebarControl.xaml" />
+    <Page Include="MyStatusBarControl.xaml" />
+    <Page Include="MyStyles.xaml" />
+    <Page Include="MyToolBarTrayControl.xaml" />
+    <Page Include="Simple Styles.xaml" />
+    <Page Include="Window1.xaml" />
+    <Resource Include="graphics\addCategories.gif" />
+    <Resource Include="graphics\addressbook.gif" />
+    <Resource Include="graphics\attachment.gif" />
+    <Resource Include="graphics\calendar.ico" />
+    <Resource Include="graphics\category.gif" />
+    <Resource Include="graphics\contacts.ico" />
+    <Resource Include="graphics\createrule.gif" />
+    <Resource Include="graphics\chooseForm.ico" />
+    <Resource Include="graphics\delete.gif" />
+    <Resource Include="graphics\done.gif" />
+    <Resource Include="graphics\drafts.bmp" />
+    <Resource Include="graphics\flag.gif" />
+    <Resource Include="graphics\flagColumn.gif" />
+    <Resource Include="graphics\folder.ico" />
+    <Resource Include="graphics\forward.gif" />
+    <Resource Include="graphics\help.gif" />
+    <Resource Include="graphics\importance.gif" />
+    <Resource Include="graphics\important.gif" />
+    <Resource Include="graphics\inbox.bmp" />
+    <Resource Include="graphics\inbox.gif" />
+    <Resource Include="graphics\junk.bmp" />
+    <Resource Include="graphics\magnifier.gif" />
+    <Resource Include="graphics\mailType.gif" />
+    <Resource Include="graphics\connected.ico" />
+    <Resource Include="graphics\moveto.gif" />
+    <Resource Include="graphics\noflag.gif" />
+    <Resource Include="graphics\notes.ico" />
+    <Resource Include="graphics\onenote.gif" />
+    <Resource Include="graphics\outbox.bmp" />
+    <Resource Include="graphics\message.ico" />
+    <Resource Include="graphics\mail.ico" />
+    <Resource Include="graphics\meetingRequest.ico" />
+    <Resource Include="graphics\taskRequest.ico" />
+    <Resource Include="graphics\outlookToday.bmp" />
+    <Resource Include="graphics\print.gif" />
+    <Resource Include="graphics\read.gif" />
+    <Resource Include="graphics\recycle.bmp" />
+    <Resource Include="graphics\reply.gif" />
+    <Resource Include="graphics\replyall.gif" />
+    <Resource Include="graphics\replyed.gif" />
+    <Resource Include="graphics\rss.bmp" />
+    <Resource Include="graphics\search.bmp" />
+    <Resource Include="graphics\sendreceive.gif" />
+    <Resource Include="graphics\sent.bmp" />
+    <Resource Include="graphics\tasks.ico" />
+    <Resource Include="graphics\toolbarSeparator.gif" />
+    <Resource Include="graphics\unread.gif" />
+    <Resource Include="inbox.xml" />
+    <EmbeddedResource Include="resources\mail1.htm">
+    </EmbeddedResource>
+    <EmbeddedResource Include="resources\mail10.htm" />
+    <EmbeddedResource Include="resources\mail2.htm">
+    </EmbeddedResource>
+    <EmbeddedResource Include="resources\mail3.htm">
+    </EmbeddedResource>
+    <EmbeddedResource Include="resources\mail4.htm" />
+    <EmbeddedResource Include="resources\mail5.htm" />
+    <EmbeddedResource Include="resources\mail6.htm" />
+    <EmbeddedResource Include="resources\mail7.htm" />
+    <EmbeddedResource Include="resources\mail8.htm" />
+    <EmbeddedResource Include="resources\mail9.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="graphics\infoPath.ico" />
+    <Resource Include="graphics\saveAs.ico" />
+    <Resource Include="graphics\distributionList.ico" />
+    <Resource Include="graphics\print.ico" />
+    <Resource Include="graphics\journalEntry.ico" />
+    <Resource Include="Outlook 2007.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="graphics\postInFolder.ico" />
+  </ItemGroup>
+</Project>

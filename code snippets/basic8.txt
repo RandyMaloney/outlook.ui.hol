@@ -1,0 +1,31 @@
+private GridLength gridLength;
+private void myMainGridToggleButton_Checked(object sender, RoutedEventArgs e)
+{
+	if (myMainGridFirstColumn.ActualWidth > myMainGridFirstColumn.MinWidth)
+		gridLength = myMainGridFirstColumn.Width;
+		
+        myMainGridFirstColumn.Width = new GridLength(myMainGridFirstColumn.MinWidth);		
+        myFoldersExpandersControl.Visibility = Visibility.Hidden;
+        mySidebarControl.Visibility = Visibility.Visible;
+}
+
+********************************************************
+
+private void myMainGridToggleButton_Unchecked(object sender, RoutedEventArgs e)
+{
+	if (!myMainGridFirstColumnSplitter.IsDragging)
+        	myMainGridFirstColumn.Width = gridLength;
+
+	myFoldersExpandersControl.Visibility = Visibility.Visible;
+	mySidebarControl.Visibility = Visibility.Hidden;
+}
+
+**********************************************************
+
+private void myMainGridFirstColumnSplitter_DragDelta(object sender, System.Windows.Controls.Primitives.DragDeltaEventArgs e)
+{
+	if (myMainGridFirstColumn.ActualWidth <= myMainGridFirstColumn.MinWidth)
+		myMainGridToggleButton.IsChecked = true;		
+	else
+		myMainGridToggleButton.IsChecked = false;
+}

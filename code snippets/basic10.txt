@@ -1,0 +1,6 @@
+DisplayMemberBinding="{Binding XPath=From}" 
+
+DisplayMemberBinding="{Binding XPath=To}" 
+
+DisplayMemberBinding="{Binding XPath=Subject}"
+

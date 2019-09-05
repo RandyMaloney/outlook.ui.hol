@@ -1,0 +1,63 @@
+<ListView.Resources>
+	<DataTemplate x:Key="MyImportanceCellDataTemplate">
+		<Image x:Name="myImage" Stretch="None" />
+		<DataTemplate.Triggers>
+			<DataTrigger Binding="{Binding XPath=Importance}" Value="true" >
+				<Setter Property="Source" TargetName="myImage" Value="graphics\important.gif" />
+			</DataTrigger>
+		</DataTemplate.Triggers>
+	</DataTemplate>
+</ListView.Resources>
+
+*********************************************
+
+<GridViewColumn CellTemplate="{DynamicResource MyImportanceCellDataTemplate}" >
+	<GridViewColumn.Header>
+		<Image Source="graphics\importance.gif" Stretch="None" />
+	</GridViewColumn.Header>
+</GridViewColumn>
+
+********************************************
+
+<DataTemplate x:Key="MyReadCellDataTemplate">
+	<Image x:Name="myImage" Stretch="None" />
+	<DataTemplate.Triggers>
+		<DataTrigger Binding="{Binding XPath=Read}" Value="true" >
+			<Setter Property="Source" TargetName="myImage" Value="graphics\read.gif" />
+		</DataTrigger>
+		<DataTrigger Binding="{Binding XPath=Read}" Value="false" >
+			<Setter Property="Source" TargetName="myImage" Value="graphics\unread.gif" />
+		</DataTrigger>
+	</DataTemplate.Triggers>
+</DataTemplate>
+
+********************************************
+
+<GridViewColumn CellTemplate="{DynamicResource MyReadCellDataTemplate}">
+	<GridViewColumn.Header>
+		<Image Source="graphics\mailType.gif" Stretch="None" />
+	</GridViewColumn.Header>
+</GridViewColumn>
+
+********************************************
+
+<DataTemplate x:Key="MyAttachmentCellDataTemplate">
+	<Image x:Name="myImage" Source="graphics\attachment.gif" Stretch="None" />
+	<DataTemplate.Triggers>
+		<DataTrigger Binding="{Binding XPath=Attachment}" Value="-1" >
+			<Setter Property="Source" TargetName="myImage" Value="{x:Null}" />
+		</DataTrigger>
+	</DataTemplate.Triggers>
+</DataTemplate>
+
+********************************************
+
+<GridViewColumn CellTemplate="{DynamicResource MyAttachmentCellDataTemplate}">
+	<GridViewColumn.Header>
+		<Image Source="graphics\attachment.gif" Stretch="None" />
+	</GridViewColumn.Header>
+</GridViewColumn>
+
+
+
+

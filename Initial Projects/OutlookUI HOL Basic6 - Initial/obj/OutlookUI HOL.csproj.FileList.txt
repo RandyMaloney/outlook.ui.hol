@@ -1,0 +1,197 @@
+obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\myStyles.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\myStyles.baml
+obj\Debug\OutlookUI_HOL.exe
+obj\Debug\OutlookUI_HOL.pdb
+bin\Debug\OutlookUI_HOL.exe
+bin\Debug\OutlookUI_HOL.pdb
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\Window1.baml
+obj\Debug\OutlookUI_HOL.g.resources
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI-HOL\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\Window1.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MySideBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Initial\obj\Debug\MySideBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MySideBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MySideBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Final\obj\Debug\Window1.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MySideBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MySideBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial\obj\Debug\Window1.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MySideBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MySideBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL Basic - Initial - Copy\obj\Debug\Window1.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MySideBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MySideBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL - Final\obj\Debug\Window1.baml
+obj\Debug\OutlookUI_HOL.resources.mail10.htm
+obj\Debug\OutlookUI_HOL.resources.mail2.htm
+obj\Debug\OutlookUI_HOL.resources.mail3.htm
+obj\Debug\OutlookUI_HOL.resources.mail4.htm
+obj\Debug\OutlookUI_HOL.resources.mail5.htm
+obj\Debug\OutlookUI_HOL.resources.mail6.htm
+obj\Debug\OutlookUI_HOL.resources.mail7.htm
+obj\Debug\OutlookUI_HOL.resources.mail8.htm
+obj\Debug\OutlookUI_HOL.resources.mail9.htm
+obj\Debug\OutlookUI_HOL.resources.mail1.htm
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MySideBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MySideBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\obj\Debug\Window1.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyFoldersExpandersControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyInboxExpanderControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyMailHeaderGridControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyStatusBarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\Simple Styles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyApp.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyFoldersExpandersControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyInboxExpanderControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyMailHeaderGridControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyNavigationPaneControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MySidebarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyStatusBarControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyToolBarTrayControl.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\Window1.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyApp.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\OutlookUI_HOL_MarkupCompile.cache
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\OutlookUI_HOL_MarkupCompile.lref
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyNavigationPaneControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MySidebarControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyStyles.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\MyToolBarTrayControl.baml
+C:\Users\v-ruihuj.EUROPE\Documents\OutlookWPF\OutlookUI HOL\Initial Projects\OutlookUI HOL Basic6 - Initial\obj\Debug\Window1.baml

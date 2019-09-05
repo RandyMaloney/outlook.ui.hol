@@ -1,0 +1,2 @@
+<GridSplitter Width="5" Background="{DynamicResource MyBorderBlueGradientBrush}" Grid.Column="1" Grid.RowSpan="2"/>
+<GridSplitter HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="7" Background="{DynamicResource MyHGridSplitterBlueGradientBrush}"/>

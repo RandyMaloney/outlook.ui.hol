@@ -1,0 +1,15 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xml:lang="en-US"
+	xmlns:OutlookUI_HOL="clr-namespace:OutlookUI_HOL"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2006" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+  xmlns:local="clr-namespace:OutlookUI_HOL"
+	x:Class="OutlookUI_HOL.Window1"
+	x:Name="Window"
+	Title="Inbox - Microsoft Outlook"
+	Width="800" Height="600">
+
+
+  <Grid x:Name="LayoutRoot" Background="{x:Null}" />
+</Window>
